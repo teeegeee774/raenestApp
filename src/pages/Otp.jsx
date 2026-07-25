@@ -114,7 +114,7 @@ const Otp = () => {
           )}
           <button
             type="submit"
-            className="w-full bg-blue-700 text-white py-3 rounded-lg disabled:cursor-not-allowed"
+            className="w-full bg-[#4F3FD7] text-white py-3 rounded-lg disabled:cursor-not-allowed"
           >
             Login
           </button>
