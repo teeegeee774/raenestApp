@@ -77,6 +77,11 @@ const Otp = () => {
   return (
     <div className="flex flex-col items-center justify-start py-56 min-h-screen px-6">
       <div className="max-w-md w-full ">
+        <img
+          src="/raenest-logo.svg"
+          alt="Raenest"
+          className="mx-auto mb-8 h-auto w-36"
+        />
         <h2 className="text-2xl font-bold text-center mb-2">
           Enter your verification code
         </h2>
