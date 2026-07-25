@@ -109,7 +109,7 @@ const Home = () => {
         </form>
         <p className="text-center text-sm mt-4">
           Don’t have an account?{" "}
-          <a href="#" className="text-blue-600">
+          <a href="#" className="text-[#4F3FD7]">
             Sign up
           </a>
         </p>
