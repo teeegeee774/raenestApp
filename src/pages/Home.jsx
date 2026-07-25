@@ -95,13 +95,13 @@ const Home = () => {
             <FormErrMsg errors={errors} inputName="password" />
           </div>
           <div className="text-right mb-4">
-            <a href="#" className="text-blue-600 text-sm">
+            <a href="#" className="text-[#4F3FD7] text-sm">
               Forgot your password?
             </a>
           </div>
           <button
             type="submit"
-            className="w-full py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 disabled:bg-gray-300"
+            className="w-full py-2 bg-[#4F3FD7] text-white rounded-lg hover:bg-blue-700 disabled:bg-gray-300"
             disabled={loading}
           >
             {loading ? "Loading..." : "Log in"}
