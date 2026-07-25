@@ -43,6 +43,11 @@ const Home = () => {
   return (
     <div className="flex flex-col items-center justify-start py-36 min-h-screen px-4">
       <div className="w-full max-w-md">
+        <img
+          src="/raenest-logo.svg"
+          alt="Raenest"
+          className="mx-auto mb-8 h-auto w-36"
+        />
         <h2 className="text-2xl font-bold text-center">Log in</h2>
         <p className="text-gray-600 text-center mb-4">
           Enter your email address and password to log in
