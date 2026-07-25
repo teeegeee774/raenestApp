@@ -78,7 +78,7 @@ const Otp = () => {
     <div className="flex flex-col items-center justify-start py-56 min-h-screen px-6">
       <div className="max-w-md w-full ">
         <img
-          src="/raenest-logo.svg"
+          src="https://devcareer.io/assets/Raenest_Cobalt_-c2e9d1c6.png"
           alt="Raenest"
           className="mx-auto mb-8 h-auto w-36"
         />
