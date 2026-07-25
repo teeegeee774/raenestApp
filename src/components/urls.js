@@ -1,4 +1,4 @@
-const BASE_URL = "https://luke-raenestserver.vercel.app";
+const BASE_URL = "https://raenest-api.vercel.app";
 
 export default BASE_URL;
 
