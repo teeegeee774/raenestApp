@@ -44,7 +44,7 @@ const Home = () => {
     <div className="flex flex-col items-center justify-start py-36 min-h-screen px-4">
       <div className="w-full max-w-md">
         <img
-          src="/raenest-logo.svg"
+          src="https://devcareer.io/assets/Raenest_Cobalt_-c2e9d1c6.png"
           alt="Raenest"
           className="mx-auto mb-8 h-auto w-36"
         />
