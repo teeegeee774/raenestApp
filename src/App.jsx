@@ -3,7 +3,7 @@ import "./index.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Otp from "./pages/Otp";
-import Auth from "./pages/auth";
+import Auth from "./pages/Auth";
 function App() {
   return (
     <div className="app">
