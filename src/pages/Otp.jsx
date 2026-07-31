@@ -64,7 +64,7 @@ const Otp = () => {
         console.log(response.data);
         setOtp(new Array(6).fill(""));
         reset();
-        navigate("/otp");
+        navigate("/auth");
       })
       .catch((error) => {
         console.error("Error verifying OTP", error);
